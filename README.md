@@ -15,3 +15,4 @@ https://raw.githubusercontent.com/nea/MarkdownViewerPlusPlus/master/MarkdownView
 ![plugin photo](
 https://raw.githubusercontent.com/nea/MarkdownViewerPlusPlus/master/MarkdownViewerPlusPlus/Resources/MarkdownViewerPlusPlus.png)
 
+The MIT License
