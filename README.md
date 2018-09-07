@@ -7,7 +7,8 @@
 
 # To open the MarkdownViewer++ 
 
-## You can
+## Steps by Steps
+
 1. click the toolbar icon Markdown icon ![plugin icon](
 https://raw.githubusercontent.com/nea/MarkdownViewerPlusPlus/master/MarkdownViewerPlusPlus/Resources/markdown-16x16-solid.png),
 2. use the shortcut Ctrl+Shift+M
@@ -15,4 +16,5 @@ https://raw.githubusercontent.com/nea/MarkdownViewerPlusPlus/master/MarkdownView
 ![plugin photo](
 https://raw.githubusercontent.com/nea/MarkdownViewerPlusPlus/master/MarkdownViewerPlusPlus/Resources/MarkdownViewerPlusPlus.png)
 
-The MIT License Copyright 2018 @ichbinwilly
+
+The MIT License Copyright 2018
